@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi 👋, I'm Nabil Tamer</h1>
+  <h4 align="center">Studying Computer Sciecne & Artificial Intelligence at <a href="https://www.eru.edu.eg/">Egyptian Russian University</a>.<br> Interested in Mobile Development using Flutter.</h4>
 
-<!--
-**billycr7/billycr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p> <img src="https://komarev.com/ghpvc/?username=billycr7&label=Profile%20views&color=0e75b6&style=flat" alt="billycr7" /> </p>
 
-Here are some ideas to get you started:
+  <p>
+    <a href="https://linkedin.com/in/nabiiltamer227" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabiiltamer227" height="30" width="40" /></a>
+    <a href="https://instagram.com/billy_22_7" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="billy_22_7" height="30" width="40" /></a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p><img src="https://github-readme-stats.vercel.app/api?username=billycr7&show_icons=true&locale=en&theme=midnight-purple" alt="billycr7" /></p>
+</div>
